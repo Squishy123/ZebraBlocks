@@ -4,6 +4,7 @@
  * Can include things like variables and mixins
  * that are used across the project.
 */
+@import url(./tailwind.output.css);
 /**
  * #.# Editor Styles
  *

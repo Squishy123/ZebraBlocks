@@ -51,7 +51,7 @@ registerBlockType( 'cgb/block-zebrablocks', {
 		// Creates a <p class='wp-block-cgb-block-zebrablocks'></p>.
 		return (
 			<div className={ props.className }>
-				<p>— Hello from the backend.</p>
+				<p className="text-4xl">— Hello from the backend.</p>
 				<p>
 					CGB BLOCK: <code>zebrablocks</code> is a new Gutenberg block
 				</p>
